@@ -907,7 +907,7 @@ msgid ""
 "\n"
 "            <span id=\"oa_step_deadline_peer\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
 "            "
-msgstr "\n            <span id=\"oa_step_deadline_peer\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n            "
+msgstr "\n            <span id=\"oa_step_deadline_peer\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"Date d'échéance : {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n            "
 
 #: openassessment/templates/openassessmentblock/peer/oa_peer_assessment.html:51
 #, python-format
@@ -1043,7 +1043,7 @@ msgid ""
 "\n"
 "            <span id=\"oa_step_deadline_response\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
 "            "
-msgstr "\n            <span id=\"oa_step_deadline_response\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n            "
+msgstr "\n            <span id=\"oa_step_deadline_response\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"Date d'échéance : {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n            "
 
 #: openassessment/templates/openassessmentblock/response/oa_response.html:46
 #: openassessment/templates/openassessmentblock/self/oa_self_assessment.html:46
@@ -1237,7 +1237,7 @@ msgid ""
 "\n"
 "               <span id=\"oa_step_deadline_self\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
 "           "
-msgstr "\n               <span id=\"oa_step_deadline_self\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n           "
+msgstr "\n               <span id=\"oa_step_deadline_self\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"Date d'échéance : {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n           "
 
 #: openassessment/templates/openassessmentblock/self/oa_self_assessment.html:78
 msgid "Submit your assessment"
@@ -1563,7 +1563,7 @@ msgid ""
 "\n"
 "            <span id=\"oa_step_deadline\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
 "            "
-msgstr "\n            <span id=\"oa_step_deadline\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n            "
+msgstr "\n            <span id=\"oa_step_deadline\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"Date d'échéance : {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n            "
 
 #: openassessment/templates/openassessmentblock/student_training/student_training.html:56
 #: openassessment/templates/openassessmentblock/student_training/student_training.html:64
